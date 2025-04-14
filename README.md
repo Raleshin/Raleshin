@@ -1,5 +1,6 @@
 ## Hi there 👋
-[www.hh.ru] Первая ссылка
+|№|Наименование проекта|Стек|
+|1|[www.hh.ru]|Python|
 <!--
 **Raleshin/Raleshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
