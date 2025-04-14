@@ -1,7 +1,7 @@
 
 |Номер проекта|Описание|Стек|
 |-|--------|---|
-|1| **Статистический анализ данных** |Python|
+|1| **Статистический анализ данных** |:Python|
 
 <!--
 **Raleshin/Raleshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
