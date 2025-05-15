@@ -1,5 +1,5 @@
 ## Навыки и технологии
-- **Языки программирования**: ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql) ![PySpark](https://img.shields.io/badge/-PySpark-333?style=flat&logo=apache-spark) 
+- **Языки программирования**: ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql) 
 - **Машинное обучение**: ![scikit-learn](https://img.shields.io/badge/-scikit--learn-333?style=flat&logo=scikit-learn) ![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
 - **Аналитика данных**: ![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas) ![NumPy](https://img.shields.io/badge/-NumPy-333?style=flat&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333?style=flat&logo=matplotlib) ![Seaborn](https://img.shields.io/badge/-Seaborn-333?style=flat&logo=seaborn) ![Plotly](https://img.shields.io/badge/-Plotly-333?style=flat&logo=plotly)
 - **Базы данных**: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql) ![ClickHouse](https://img.shields.io/badge/-ClickHouse-333?style=flat&logo=clickhouse)
