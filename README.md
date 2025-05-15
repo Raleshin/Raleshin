@@ -1,3 +1,6 @@
+<div style="background-color: #f0f8ff; padding: 20px; border-radius: 10px;">
+  ### 🚀 Мой профиль  
+  Здесь будет ваш контент...
 
 ### 🛠 Skills
 
@@ -32,3 +35,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --
+</div>
