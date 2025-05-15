@@ -9,7 +9,7 @@
 
 #### 🗃 **Databases** : ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC00?style=flat&logo=yandex&logoColor=black)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+#### ⚙️ **Tools & Platforms**: ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 |#|Название проекта|Описание|Используемые библиотеки|
 |-|--------|---|---|
