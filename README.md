@@ -1,3 +1,5 @@
+- **Data Visualization**: ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)  
+
 ## Навыки и технологии
 - **Языки программирования**: ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql) 
 - **Машинное обучение**: ![scikit-learn](https://img.shields.io/badge/-scikit--learn-333?style=flat&logo=scikit-learn) ![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
