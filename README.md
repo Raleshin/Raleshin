@@ -1,5 +1,10 @@
-## 🛠 Skills  
-![My Skills](https://skillicons.dev/icons?i=python,git,github&theme=dark&perline=7 )
+## Навыки и технологии
+- **Языки программирования**: ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) ![SQL](https://img.shields.io/badge/-SQL-333?style=flat&logo=postgresql) ![PySpark](https://img.shields.io/badge/-PySpark-333?style=flat&logo=apache-spark) 
+- **Машинное обучение**: ![scikit-learn](https://img.shields.io/badge/-scikit--learn-333?style=flat&logo=scikit-learn) ![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
+- **Аналитика данных**: ![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas) ![NumPy](https://img.shields.io/badge/-NumPy-333?style=flat&logo=numpy) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333?style=flat&logo=matplotlib) ![Seaborn](https://img.shields.io/badge/-Seaborn-333?style=flat&logo=seaborn) ![Plotly](https://img.shields.io/badge/-Plotly-333?style=flat&logo=plotly)
+- **Базы данных**: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql) ![ClickHouse](https://img.shields.io/badge/-ClickHouse-333?style=flat&logo=clickhouse)
+- **Инструменты и системы**: ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git) ![Jupyter](https://img.shields.io/badge/-Jupyter-333?style=flat&logo=jupyter)
+- **Обработка больших данных**: ![Apache Spark](https://img.shields.io/badge/-Apache%20Spark-333?style=flat&logo=apache-spark) ![Hadoop](https://img.shields.io/badge/-Hadoop-333?style=flat&logo=apache-hadoop)
 |#|Название проекта|Описание|Используемые библиотеки|
 |-|--------|---|---|
 |1| [Оптимизация маркетинговых стратегий: приоритизация гипотез и анализ A/B-теста для роста выручки интернет-магазина](https://github.com/Raleshin/Raleshin/blob/main/%C2%AB%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D1%84%D0%B8%D1%82%D0%BD%D0%B5%D1%81-%D1%86%D0%B5%D0%BD%D1%82%D1%80%D0%B0%3A%20ML-%D0%BC%D0%BE%D0%B4%D0%B5%D0%BB%D0%B8%20%D0%B8%20%D1%81%D1%82%D1%80%D0%B0%D1%82%D0%B5%D0%B3%D0%B8%D0%B8%20%D1%83%D0%B4%D0%B5%D1%80%D0%B6%D0%B0%D0%BD%D0%B8%D1%8F%C2%BB/Ml-project.ipynb) |Проект оценивает эффективность маркетинговых гипотез с помощью фреймворков ICE/RICE, затем проверяет их через A/B-тестирование двух пользовательских групп с анализом статистической значимости результатов.|Pandas, numpy, scipy, seaborn, matplotlib, Проверка статистических гипотез, A/B-тестирование.|
