@@ -1,3 +1,6 @@
+## Привет!  
+### Меня зовут Алёшин Роман. Я получил профессиональное образование(1 год) в компании Яндекс Практикум по специализации Аналитик данных+, где выполнил более 10 учебных проектов. Наиболее интересные есть в моём профиле.  Так же в моём активе уже есть один пет-проект, в котором провёл сравнительный анализ ваканский Системных и дата-аналитиков.  Сейчас я более углублённо изучаю SQL и базы данных на stepik'e, читаю "Статистика для всех" и планирую участвовать в партнёрских проектах на акселерации Яндекса. Я буду рад вашим предложениям !
+
 ### Что я умею:
 
 ####  **Анализ данных** :  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
