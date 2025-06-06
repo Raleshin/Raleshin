@@ -9,7 +9,7 @@
 ####  **Базы данных** :  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC00?style=flat&logo=yandex&logoColor=black)
 
 #### ⚙ **Инструменты**:  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
+---
 #### Мои самостоятельные и учебные проекты: 
 |#|Pet-проекты|Описание|Используемые библиотеки|
 |-|--------|---|---|
