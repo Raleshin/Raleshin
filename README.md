@@ -9,11 +9,13 @@
 ####  **Базы данных** :  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC00?style=flat&logo=yandex&logoColor=black)
 
 #### ⚙ **Инструменты**:  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+
 |#|Pet-проекты|Описание|Используемые библиотеки|
 |-|--------|---|---|
 |1| [Сравнительный анализ рынка труда для "Аналитика данных" и "Системного аналитика" на основе вакансий с hh.ru. ](https://github.com/Raleshin/Raleshin/blob/main/Sys%20Vs%20data%20for%20hh.ru/35DA%2Bhhru_project.ipynb) |Комплексный анализ вакансий с hh.ru по двум направлениям - "Аналитик данных" и "Системный аналитик". Исследованы грейды, ключевые работодатели, предлагаемые условия и востребованные навыки с целью формирования рекомендаций для начинающих специалистов.|Pandas, numpy, seaborn, matplotlib |
 
-
+### Мои самостоятельные и учебные проекты: 
 #### 
 |#|Учебные проекты|Описание|Используемые библиотеки|
 |-|--------|---|---|
