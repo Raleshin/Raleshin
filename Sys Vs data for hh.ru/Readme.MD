@@ -35,4 +35,5 @@
 
 - <span style="color:#4994c6; font-weight:bold">синяя</span> — для вакансий категории "Аналитик данных"
 - <span style="color:#2ca02c; font-weight:bold">зеленая</span> палитра — для вакансий категории "Системный аналитик"
-[Ссылка на проект](
+
+[Ссылка на проект](https://github.com/Raleshin/Raleshin/blob/main/Sys%20Vs%20data%20for%20hh.ru/hh.ru_project.ipynb)
