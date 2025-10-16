@@ -1,4 +1,4 @@
-
+<div style="background-color: #eef4f8; padding: 16px; border-radius: 6px; margin-bottom: 20px;">
 ## Привет!  
 Меня зовут Алёшин Роман. В data-аналитике около двух лет. Работаю с полным циклом анализа - от сбора данных и статистической проверки гипотез до построения дашбордов и презентации выводов. Хорошо владею SQL: пишу сложные аналитические запросы с использованием CTE и оконных функций.
 
@@ -6,7 +6,7 @@
 Понимаю важность не только технической, но и коммуникативной составляющей в работе аналитика.
 Нацелен на работу в офисе или гибридном формате, чтобы быстрее влиться в процессы.
 
-
+</div>
 #### Что я умею:
 
 ####  **Анализ данных** :  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
